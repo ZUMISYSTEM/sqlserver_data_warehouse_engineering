@@ -1,5 +1,3 @@
-## **README (Short, Corporate, Portfolio‑Ready)**
-
 # **sqlserver_data_warehouse_engineering**
 
 A modern SQL Server data‑warehouse project showcasing enterprise‑grade ETL development, dimensional modelling, and analytics engineering.
