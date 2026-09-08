@@ -22,12 +22,11 @@ This portfolio project demonstrates end‑to‑end data‑engineering capabiliti
 - **Analytics Layer:** SQL views, reporting tables, stored procedures
 
 ## **Repository Structure**
-```
-/etl/                 SSIS packages and workflows
-/models/              Star schema, dimensions, facts, aggregates
-/sql/                 Stored procedures, views, transformations
-/data/                Sample CRM/ERP datasets
-/docs/                Architecture notes and project documentation
+```                 
+/datasets/               
+/docs/               
+/scripts/
+/test/                 
 ```
 
 ## **Purpose**
